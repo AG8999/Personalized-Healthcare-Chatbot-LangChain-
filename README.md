@@ -1,4 +1,4 @@
-# README: Setting Up Your Environment with Pipenv
+# Setting Up Your Environment with Pipenv
 
 ## Prerequisite: Install Pipenv
 Follow the official Pipenv installation guide to set up Pipenv on your system:  
